@@ -1,0 +1,18 @@
+{
+    "id": "579129ff-5b02-486e-b56f-624b2fa0b9bf",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.25.0",
+    "iconFile": "lunch.png",
+    "author": {
+        "name": "Hoai",
+        "homepage": "https://chat.teamblueotter.com",
+        "support": "https://chat.teamblueotter.com"
+    },
+    "name": "Lunch",
+    "nameSlug": "lunch",
+    "classFile": "PollApp.ts",
+    "description": "A simple app to create order on Rocket.Chat. Use the slash command: /lunch [Question?]",
+    "implements": [
+        "IUIKitInteractionHandler"
+    ]
+}

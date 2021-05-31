@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/server/bridges/ICloudWorkspaceBridge.ts"],"names":[],"mappings":"","file":"ICloudWorkspaceBridge.js","sourcesContent":["import { IWorkspaceToken } from '../../definition/cloud/IWorkspaceToken';\n\nexport interface ICloudWorkspaceBridge {\n    getWorkspaceToken(scope: string, appId: string): Promise<IWorkspaceToken>;\n}\n"]}
