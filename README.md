@@ -5,7 +5,7 @@
 Use the slash command to create a order:
 
 ```
-/lunch What is your favorite color?
+/lunch
 ```
 
 Fill the form
